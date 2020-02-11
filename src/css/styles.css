@@ -1,0 +1,13 @@
+html
+
+.tamagotchi {
+    width: 256px;
+    height: 310px;
+    text-align: center;
+    position: fixed;
+    /* border-radius: $egg-radius; */
+}
+
+#health {
+    width: 200px;
+}
